@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tld.kata.KataApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-30T02:57:52.389Z" hostname="miu-wired" time="0.002">
+  <properties/>
+  <testcase name="contextLoads()" classname="tld.kata.KataApplicationTests" time="0.002"/>
+  <system-out><![CDATA[2025-04-29T21:57:52.248-05:00  INFO 77571 --- [kata] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [tld.kata.KataApplicationTests]: KataApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-04-29T21:57:52.249-05:00  INFO 77571 --- [kata] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration tld.kata.KataApplication for test class tld.kata.KataApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.5)
+
+2025-04-29T21:57:52.265-05:00  INFO 77571 --- [kata] [    Test worker] tld.kata.KataApplicationTests            : Starting KataApplicationTests using Java 17.0.14 with PID 77571 (started by thom in /home/thom/Development/expert-tribble)
+2025-04-29T21:57:52.265-05:00  INFO 77571 --- [kata] [    Test worker] tld.kata.KataApplicationTests            : No active profile set, falling back to 1 default profile: "default"
+2025-04-29T21:57:52.386-05:00  INFO 77571 --- [kata] [    Test worker] tld.kata.KataApplicationTests            : Started KataApplicationTests in 0.133 seconds (process running for 1.983)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
